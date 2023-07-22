@@ -6,8 +6,7 @@ import { useState } from "react";
 import StarRating from "./StarRating";
 import { useMovies } from "./useMovies";
 
-// OMDb API KEY:
-// Here is your key: 6d104b8
+// OMDb API KEY:6d104b8
 
 // Please append it to all of your API requests,
 
